@@ -341,8 +341,8 @@ Data & AI Analyst | MS in Data Analytics & Applied Economics, University of Verm
 
 ## 🙏 Acknowledgments
 
-- **Capstone Team Members**: Ankit, Akash, Sidhant Kumar, Ashikul Kabir, Shraddha Jain, Sana Parab
-- **University of Vermont**: BSAN 710 Program
+- **Capstone Team Members**: Ankit Akash, Sidhant Kumar, Ashikul Kabir, Shraddha Jain, Sana Parab
+- **Drexel University**: BSAN 710 Program
 - **Precisely**: API access for geocoding and flood risk data
 - **FEMA & USGS**: Open data sources
 - **Vermont Secretary of State**: 2023 flood documentation
