@@ -1,0 +1,84 @@
+# ============================================
+# PRIVATE DATA - DO NOT COMMIT
+# ============================================
+
+# Raw data files (proprietary)
+data/raw/*.csv
+data/raw/*.geojson
+data/raw/*.shp
+data/raw/*.xlsx
+
+# Processed data (contains PII)
+data/processed/*.csv
+data/processed/*.parquet
+
+# API keys and credentials
+.env
+.env.local
+config/api_keys.yaml
+**/credentials.json
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter notebook output (may contain data)
+# Uncomment if you want to hide all outputs:
+# **/*.ipynb
+
+# ============================================
+# IDE
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# OS
+# ============================================
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Logs
+# ============================================
+*.log
+logs/
+
+# ============================================
+# Temporary files
+# ============================================
+*.tmp
+temp/
+cache/
